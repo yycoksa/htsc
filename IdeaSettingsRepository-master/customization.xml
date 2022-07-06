@@ -1,0 +1,34 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="CallHierarchy" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoImplementation" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeHierarchy" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MethodHierarchy" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoSuperMethod" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
